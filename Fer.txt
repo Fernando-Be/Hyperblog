@@ -1,3 +1,7 @@
 Hola me llamo fer.
 
 Tengo 20 años.
+
+Vamos a empezar:
+ 
+1.- Me gusta programar
